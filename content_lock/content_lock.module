@@ -3,7 +3,6 @@
  * Created by Digital Bridge Solutions.
  * User: DeAndre Elion
  * Email: deandre.elion@dbridgesolutions.com
- * Date: 7/3/14
  */
 
 function content_lock_form_alter(&$form, &$form_state, $form_id) {
