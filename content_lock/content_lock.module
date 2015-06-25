@@ -1,8 +1,7 @@
 <?php
 /**
- * Created by Digital Bridge Solutions.
- * User: DeAndre Elion
- * Email: deandre.elion@dbridgesolutions.com
+ * Created by DeAndre Elion
+ * Email: deandre.elion@gmail.com
  */
 
 function content_lock_form_alter(&$form, &$form_state, $form_id) {
